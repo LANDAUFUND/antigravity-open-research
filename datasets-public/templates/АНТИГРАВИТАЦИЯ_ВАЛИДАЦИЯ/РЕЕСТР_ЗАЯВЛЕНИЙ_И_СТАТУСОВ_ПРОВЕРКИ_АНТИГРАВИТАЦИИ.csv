@@ -1,0 +1,3 @@
+CLAIM_ID,DATE_UTC,CLAIM_TEXT,CATEGORY,MEASURABLE_QUANTITY,REQUIRED_DATA,KNOWN_PHYSICS_CHECKS,STATUS,NEXT_ACTION
+AG-CLAIM-0001,2026-05-24,Изменение показаний веса при активном режиме,ИНЖЕНЕРНАЯ_КОМПЕНСАЦИЯ_ИЛИ_АРТЕФАКТ,DELTA_WEIGHT_N,RAW_DATA_CALIBRATION_CONTROLS,MECHANICS_EM_THERMAL_AIR_SENSOR,НЕ_ПРОВЕРЯЛАСЬ,ПРОВЕСТИ_КОНТРОЛЬНЫЕ_ОПЫТЫ
+AG-CLAIM-0002,2026-05-24,Остаточный сигнал после учета известных сил,ГИПОТЕТИЧЕСКАЯ_МОДЕЛЬ,F_RESIDUAL_N,RAW_DATA_FULL_ERROR_BUDGET_INDEPENDENT_REPEAT,ALL_CONTROLS,ТРЕБУЕТ_ПОВТОРЕНИЯ,НЕЗАВИСИМЫЙ_СТЕНД

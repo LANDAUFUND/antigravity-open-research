@@ -7,6 +7,7 @@
 — Added the first public laboratory operations layer: stand passport, measured quantities table, calibration protocol, control experiment matrix, stand registry, and systematic error/artifact journal.
 — Added machine-readable CSV templates for measurement rows and experiment series registry.
 — Added public data dictionary and experimental series report template.
+— Added public scientific validation package: validation protocol, pseudoscience rejection checklist, falsification matrix, claim status registry, and experiment review template.
 — Added `methodologies/АНТИГРАВИТАЦИЯ_ПУБЛИЧНЫЙ_ИНДЕКС_МЕТОДИК.md` as the public index and boundary note.
 — Explicitly preserved the rule that these materials do not claim antigravity has been proven.
 — Initial public Antigravity Open Research repository prepared.

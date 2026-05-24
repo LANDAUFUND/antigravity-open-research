@@ -9,5 +9,6 @@ Private procedures, sensitive operational details, credentials, and unapproved m
 - `АНТИГРАВИТАЦИЯ_ПУБЛИЧНЫЙ_ИНДЕКС_МЕТОДИК.md` - public index, status, license, and boundary rules.
 - `АНТИГРАВИТАЦИЯ_РАСЧЁТНЫЙ_КАРКАС/` - formulas and calculation framework for laboratory research.
 - `АНТИГРАВИТАЦИЯ_ЛАБОРАТОРНЫЙ_КОНТУР/` - laboratory stand passport, measured quantities, calibration protocol, control matrix, stand registry, and systematic error journal.
+- `АНТИГРАВИТАЦИЯ_НАУЧНАЯ_ВАЛИДАЦИЯ_И_АНТИПСЕВДОНАУКА/` - validation protocol, falsification matrix, and pseudoscience rejection checklist for antigravity claims.
 
 Core rule: these files describe a research framework and do not state that antigravity is proven.
