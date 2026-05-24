@@ -1,0 +1,3 @@
+RECORD_ID,DATE_UTC,TYPE,SERIES_ID,LAB_ID,STAND_ID,HYPOTHESIS_ID,RESULT_STATUS,REVIEW_STATUS,REPLICATION_LEVEL,F_RESIDUAL_N,SNR,RAW_DATA_HASH,NEXT_ACTION
+AG-REP-0001,2026-05-24,REPLICATION,AG-SERIES-0001,LAB-001,AG-STAND-001,AG-HYP-001,ТРЕБУЕТ_ПОВТОРЕНИЯ,НА_РЕЦЕНЗИИ,R1,0.001,1.25,ТРЕБУЕТ_ЗАПОЛНЕНИЯ,ПОВТОРИТЬ_С_НЕЗАВИСИМЫМ_ДАТЧИКОМ
+AG-NEG-0001,2026-05-24,NEGATIVE_RESULT,AG-SERIES-0002,LAB-001,AG-STAND-001,AG-HYP-002,ГИПОТЕЗА_НЕ_ПОДДЕРЖАНА,ПРИНЯТЬ_КАК_ОТРИЦАТЕЛЬНЫЙ_РЕЗУЛЬТАТ,R0,0.000,0.40,ТРЕБУЕТ_ЗАПОЛНЕНИЯ,ДОБАВИТЬ_В_КАРТУ_АРТЕФАКТОВ

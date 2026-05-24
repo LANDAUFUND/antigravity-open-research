@@ -55,11 +55,13 @@ Required:
 — `methodologies/АНТИГРАВИТАЦИЯ_РАСЧЁТНЫЙ_КАРКАС/` — formulas and calculation framework;
 — `methodologies/АНТИГРАВИТАЦИЯ_ЛАБОРАТОРНЫЙ_КОНТУР/` — laboratory stand passport, measured quantities, calibration protocol, controls, stand registry, and artifact journal.
 — `methodologies/АНТИГРАВИТАЦИЯ_НАУЧНАЯ_ВАЛИДАЦИЯ_И_АНТИПСЕВДОНАУКА/` — validation protocol, pseudoscience rejection checklist, and falsification matrix for antigravity claims.
+— `methodologies/АНТИГРАВИТАЦИЯ_НЕЗАВИСИМАЯ_РЕПЛИКАЦИЯ_И_ОТРИЦАТЕЛЬНЫЕ_РЕЗУЛЬТАТЫ/` — independent replication protocol, blind control protocol, and replication risk map.
 — `datasets-public/templates/` — machine-readable CSV templates and data dictionary for measurement series.
 — `templates/АНТИГРАВИТАЦИЯ_ОТЧЁТЫ/` — public report template for an experimental series.
 — `templates/АНТИГРАВИТАЦИЯ_РЕЦЕНЗИИ/` — public peer review template for an antigravity experiment.
+— `templates/АНТИГРАВИТАЦИЯ_ОТРИЦАТЕЛЬНЫЕ_РЕЗУЛЬТАТЫ/` — public negative-result report template.
 
-These materials do not claim that antigravity has been proven. They define a reproducible research framework for measurement, falsification, control experiments, and separation of established physics from speculative claims.
+These materials do not claim that antigravity has been proven. They define a reproducible research framework for measurement, falsification, control experiments, independent replication, negative results, and separation of established physics from speculative claims.
 
 ## Citation
 
