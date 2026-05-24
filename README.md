@@ -58,14 +58,16 @@ Required:
 — `methodologies/АНТИГРАВИТАЦИЯ_НЕЗАВИСИМАЯ_РЕПЛИКАЦИЯ_И_ОТРИЦАТЕЛЬНЫЕ_РЕЗУЛЬТАТЫ/` — independent replication protocol, blind control protocol, and replication risk map.
 — `methodologies/АНТИГРАВИТАЦИЯ_МЕЖЛАБОРАТОРНЫЙ_ОБМЕН_И_СОПОСТАВИМОСТЬ_СТЕНДОВ/` — interlaboratory data exchange, stand comparability, and sample transfer rules.
 — `methodologies/АНТИГРАВИТАЦИЯ_МЕТААНАЛИЗ_СЕРИЙ_И_АРХИВ_ДАННЫХ/` — series meta-analysis, no-effect parameter mapping, and DOI/archive preparation rules.
+— `docs/АНТИГРАВИТАЦИЯ_DOI_АРХИВНЫЙ_РЕЛИЗ/` — DOI-ready archive README, aggregated data dictionary, version/hash protocol, and DOI metadata template.
 — `datasets-public/templates/` — machine-readable CSV templates and data dictionary for measurement series.
 — `templates/АНТИГРАВИТАЦИЯ_ОТЧЁТЫ/` — public report template for an experimental series.
 — `templates/АНТИГРАВИТАЦИЯ_РЕЦЕНЗИИ/` — public peer review template for an antigravity experiment.
 — `templates/АНТИГРАВИТАЦИЯ_ОТРИЦАТЕЛЬНЫЕ_РЕЗУЛЬТАТЫ/` — public negative-result report template.
 — `templates/АНТИГРАВИТАЦИЯ_НУЛЕВЫЕ_СЕРИИ/` — public zero-series publication template.
 — `templates/АНТИГРАВИТАЦИЯ_МЕТААНАЛИЗ_СЕРИЙ/` — aggregated report template for multiple experiment series.
+— `templates/АНТИГРАВИТАЦИЯ_АРХИВНЫЙ_РЕЛИЗ/` — public release review checklist for archive publication.
 
-These materials do not claim that antigravity has been proven. They define a reproducible research framework for measurement, falsification, control experiments, independent replication, interlaboratory exchange, meta-analysis, negative results, DOI-ready archives, and separation of established physics from speculative claims.
+These materials do not claim that antigravity has been proven. They define a reproducible research framework for measurement, falsification, control experiments, independent replication, interlaboratory exchange, meta-analysis, negative results, DOI-ready archive preparation, and separation of established physics from speculative claims.
 
 ## Citation
 
