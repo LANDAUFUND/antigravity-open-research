@@ -12,4 +12,4 @@ Each publication should include:
 — source repository link;
 — changelog entry when updated.
 
-For DOI/archive release preparation, use `docs/АНТИГРАВИТАЦИЯ_DOI_АРХИВНЫЙ_РЕЛИЗ/`, `templates/АНТИГРАВИТАЦИЯ_АРХИВНЫЙ_РЕЛИЗ/`, and `datasets-public/templates/АНТИГРАВИТАЦИЯ_АРХИВНЫЙ_РЕЛИЗ/`.
+For DOI/archive release preparation, use `docs/АНТИГРАВИТАЦИЯ_DOI_АРХИВНЫЙ_РЕЛИЗ/`, `docs/АНТИГРАВИТАЦИЯ_ПРОВЕРКА_АРХИВНОГО_РЕЛИЗА/`, `templates/АНТИГРАВИТАЦИЯ_АРХИВНЫЙ_РЕЛИЗ/`, `datasets-public/templates/АНТИГРАВИТАЦИЯ_АРХИВНЫЙ_РЕЛИЗ/`, and `tools/АНТИГРАВИТАЦИЯ_ПРОВЕРКА_АРХИВА/`.

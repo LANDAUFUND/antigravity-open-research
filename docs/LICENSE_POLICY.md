@@ -7,6 +7,8 @@ https://creativecommons.org/licenses/by/4.0/
 
 This applies to public texts, public research notes, public laboratory reports, manifestos, methodologies, tables, diagrams, publications, and documentation.
 
+Code utilities are not covered by CC BY 4.0 unless explicitly stated. Utility scripts in `tools/` that contain `SPDX-License-Identifier: MIT` are released under the MIT License; see `LICENSE-CODE-MIT`.
+
 Required attribution:
 
 — Landau Fund;

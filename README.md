@@ -18,6 +18,8 @@ Public non-code materials in this repository are released under:
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
+Code utilities in `tools/` are released under the MIT License when the file states `SPDX-License-Identifier: MIT`; see `LICENSE-CODE-MIT`.
+
 Official license:
 https://creativecommons.org/licenses/by/4.0/
 
@@ -47,6 +49,7 @@ Required:
 — `datasets-public/` — public datasets approved for release;
 — `figures/` — public diagrams, schemes, and visual materials;
 — `templates/` — public templates for reports and documents;
+— `tools/` — public utility scripts for archive and manifest checks;
 — `docs/` — license, citation, authorship, and publication policy.
 
 ## Current Public Methodology Packages
@@ -59,6 +62,7 @@ Required:
 — `methodologies/АНТИГРАВИТАЦИЯ_МЕЖЛАБОРАТОРНЫЙ_ОБМЕН_И_СОПОСТАВИМОСТЬ_СТЕНДОВ/` — interlaboratory data exchange, stand comparability, and sample transfer rules.
 — `methodologies/АНТИГРАВИТАЦИЯ_МЕТААНАЛИЗ_СЕРИЙ_И_АРХИВ_ДАННЫХ/` — series meta-analysis, no-effect parameter mapping, and DOI/archive preparation rules.
 — `docs/АНТИГРАВИТАЦИЯ_DOI_АРХИВНЫЙ_РЕЛИЗ/` — DOI-ready archive README, aggregated data dictionary, version/hash protocol, and DOI metadata template.
+— `docs/АНТИГРАВИТАЦИЯ_ПРОВЕРКА_АРХИВНОГО_РЕЛИЗА/` — archive-release verification instruction, public aggregate JSON schema, release notes 1.0.0 draft, and Bitrix24/GitHub mapping table.
 — `datasets-public/templates/` — machine-readable CSV templates and data dictionary for measurement series.
 — `templates/АНТИГРАВИТАЦИЯ_ОТЧЁТЫ/` — public report template for an experimental series.
 — `templates/АНТИГРАВИТАЦИЯ_РЕЦЕНЗИИ/` — public peer review template for an antigravity experiment.
@@ -66,6 +70,7 @@ Required:
 — `templates/АНТИГРАВИТАЦИЯ_НУЛЕВЫЕ_СЕРИИ/` — public zero-series publication template.
 — `templates/АНТИГРАВИТАЦИЯ_МЕТААНАЛИЗ_СЕРИЙ/` — aggregated report template for multiple experiment series.
 — `templates/АНТИГРАВИТАЦИЯ_АРХИВНЫЙ_РЕЛИЗ/` — public release review checklist for archive publication.
+— `tools/АНТИГРАВИТАЦИЯ_ПРОВЕРКА_АРХИВА/` — manifest and SHA-256 verification utility for DOI/archive packages.
 
 These materials do not claim that antigravity has been proven. They define a reproducible research framework for measurement, falsification, control experiments, independent replication, interlaboratory exchange, meta-analysis, negative results, DOI-ready archive preparation, and separation of established physics from speculative claims.
 

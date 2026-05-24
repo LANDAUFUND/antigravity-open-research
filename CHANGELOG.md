@@ -12,6 +12,8 @@
 — Added interlaboratory exchange package: data exchange protocol, stand comparability table, sample exchange rules, zero-series publication template, and interlaboratory exchange registry.
 — Added meta-analysis and archive package: series meta-analysis protocol, no-effect parameter map, DOI/archive preparation instruction, aggregated series report template, and meta-analysis registry.
 — Added DOI/archive release package: archive README, aggregated data dictionary, release review checklist, version/hash protocol, DOI metadata template, and archive manifest template.
+— Added archive-release verification package: public aggregate JSON schema, manifest/SHA-256 validation utility, release notes 1.0.0 draft, and Bitrix24/GitHub mapping table.
+— Added MIT license text for code utilities in `tools/`.
 — Added `methodologies/АНТИГРАВИТАЦИЯ_ПУБЛИЧНЫЙ_ИНДЕКС_МЕТОДИК.md` as the public index and boundary note.
 — Explicitly preserved the rule that these materials do not claim antigravity has been proven.
 — Initial public Antigravity Open Research repository prepared.

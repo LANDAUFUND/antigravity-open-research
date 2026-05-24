@@ -14,5 +14,7 @@ Do not commit private, sensitive, personal, partner, credential, or raw unreleas
 - `templates/АНТИГРАВИТАЦИЯ_МЕЖЛАБОРАТОРНЫЙ_ОБМЕН/РЕЕСТР_МЕЖЛАБОРАТОРНОГО_ОБМЕНА_АНТИГРАВИТАЦИИ.csv` - registry template for data exchange, stand comparability, and sample transfer between labs.
 - `templates/АНТИГРАВИТАЦИЯ_МЕТААНАЛИЗ/РЕЕСТР_МЕТААНАЛИЗА_СЕРИЙ_АНТИГРАВИТАЦИИ.csv` - registry template for series meta-analysis, no-effect mapping, DOI/archive status, and file hashes.
 - `templates/АНТИГРАВИТАЦИЯ_АРХИВНЫЙ_РЕЛИЗ/МАНИФЕСТ_DOI_АРХИВА_АНТИГРАВИТАЦИИ.csv` - DOI/archive manifest template for file paths, versions, SHA-256 hashes, GitHub commits, Bitrix24 file IDs, and archive URLs.
+- `../docs/АНТИГРАВИТАЦИЯ_ПРОВЕРКА_АРХИВНОГО_РЕЛИЗА/СХЕМА_ПУБЛИЧНЫХ_АГРЕГАТОВ_АНТИГРАВИТАЦИИ.json` - JSON schema for future public aggregate datasets.
+- `../docs/АНТИГРАВИТАЦИЯ_ПРОВЕРКА_АРХИВНОГО_РЕЛИЗА/ТАБЛИЦА_СООТВЕТСТВИЯ_BITRIX24_И_GITHUB_АНТИГРАВИТАЦИИ.csv` - mapping table for Bitrix24 file IDs, GitHub paths, commits, and SHA-256 hashes.
 
 Templates are not experimental results. They define the data structure for future reproducible measurements.
