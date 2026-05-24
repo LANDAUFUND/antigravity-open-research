@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Keep local operational memory and unpublished material out of the public repo.
+PROJECT_MEMORY.md
+private/
+drafts-private/
+raw-private/

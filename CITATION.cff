@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use Landau Fund Antigravity materials, please cite this repository."
+type: generic
+title: "Landau Fund: Antigravity Open Research Initiative"
+authors:
+  - name: "Landau Fund"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/LANDAUFUND/antigravity-open-research"
+url: "https://github.com/LANDAUFUND/antigravity-open-research"
+date-released: "2026-05-24"
+abstract: "Public open research materials, public laboratory reports, methodologies, tables, diagrams, and publications for the Landau Fund Antigravity Open Research Initiative."
+keywords:
+  - antigravity
+  - open research
+  - Landau Fund
