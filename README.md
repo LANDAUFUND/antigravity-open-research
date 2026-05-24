@@ -54,6 +54,8 @@ Required:
 — `methodologies/АНТИГРАВИТАЦИЯ_ПУБЛИЧНЫЙ_ИНДЕКС_МЕТОДИК.md` — public index of Antigravity methodology packages;
 — `methodologies/АНТИГРАВИТАЦИЯ_РАСЧЁТНЫЙ_КАРКАС/` — formulas and calculation framework;
 — `methodologies/АНТИГРАВИТАЦИЯ_ЛАБОРАТОРНЫЙ_КОНТУР/` — laboratory stand passport, measured quantities, calibration protocol, controls, stand registry, and artifact journal.
+— `datasets-public/templates/` — machine-readable CSV templates and data dictionary for measurement series.
+— `templates/АНТИГРАВИТАЦИЯ_ОТЧЁТЫ/` — public report template for an experimental series.
 
 These materials do not claim that antigravity has been proven. They define a reproducible research framework for measurement, falsification, control experiments, and separation of established physics from speculative claims.
 
