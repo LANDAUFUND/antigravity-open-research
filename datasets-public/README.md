@@ -12,5 +12,6 @@ Do not commit private, sensitive, personal, partner, credential, or raw unreleas
 - `templates/АНТИГРАВИТАЦИЯ_ВАЛИДАЦИЯ/РЕЕСТР_ЗАЯВЛЕНИЙ_И_СТАТУСОВ_ПРОВЕРКИ_АНТИГРАВИТАЦИИ.csv` - registry template for antigravity claims, evidence status, falsification criteria, and review decisions.
 - `templates/АНТИГРАВИТАЦИЯ_РЕПЛИКАЦИЯ/РЕЕСТР_РЕЦЕНЗИЙ_РЕПЛИКАЦИЙ_И_ОТРИЦАТЕЛЬНЫХ_РЕЗУЛЬТАТОВ_АНТИГРАВИТАЦИИ.csv` - registry template for reviews, replication attempts, and negative results.
 - `templates/АНТИГРАВИТАЦИЯ_МЕЖЛАБОРАТОРНЫЙ_ОБМЕН/РЕЕСТР_МЕЖЛАБОРАТОРНОГО_ОБМЕНА_АНТИГРАВИТАЦИИ.csv` - registry template for data exchange, stand comparability, and sample transfer between labs.
+- `templates/АНТИГРАВИТАЦИЯ_МЕТААНАЛИЗ/РЕЕСТР_МЕТААНАЛИЗА_СЕРИЙ_АНТИГРАВИТАЦИИ.csv` - registry template for series meta-analysis, no-effect mapping, DOI/archive status, and file hashes.
 
 Templates are not experimental results. They define the data structure for future reproducible measurements.

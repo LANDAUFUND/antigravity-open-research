@@ -10,6 +10,7 @@
 — Added public scientific validation package: validation protocol, pseudoscience rejection checklist, falsification matrix, claim status registry, and experiment review template.
 — Added independent replication and negative-result package: replication protocol, blind control protocol, replication risk map, negative-result report template, and registry for reviews/replications/negative results.
 — Added interlaboratory exchange package: data exchange protocol, stand comparability table, sample exchange rules, zero-series publication template, and interlaboratory exchange registry.
+— Added meta-analysis and archive package: series meta-analysis protocol, no-effect parameter map, DOI/archive preparation instruction, aggregated series report template, and meta-analysis registry.
 — Added `methodologies/АНТИГРАВИТАЦИЯ_ПУБЛИЧНЫЙ_ИНДЕКС_МЕТОДИК.md` as the public index and boundary note.
 — Explicitly preserved the rule that these materials do not claim antigravity has been proven.
 — Initial public Antigravity Open Research repository prepared.

@@ -12,5 +12,6 @@ Private procedures, sensitive operational details, credentials, and unapproved m
 - `АНТИГРАВИТАЦИЯ_НАУЧНАЯ_ВАЛИДАЦИЯ_И_АНТИПСЕВДОНАУКА/` - validation protocol, falsification matrix, and pseudoscience rejection checklist for antigravity claims.
 - `АНТИГРАВИТАЦИЯ_НЕЗАВИСИМАЯ_РЕПЛИКАЦИЯ_И_ОТРИЦАТЕЛЬНЫЕ_РЕЗУЛЬТАТЫ/` - independent replication, blind control, replication risk map, and negative-result discipline.
 - `АНТИГРАВИТАЦИЯ_МЕЖЛАБОРАТОРНЫЙ_ОБМЕН_И_СОПОСТАВИМОСТЬ_СТЕНДОВ/` - interlaboratory data exchange, stand comparability, sample transfer, and zero-series publication.
+- `АНТИГРАВИТАЦИЯ_МЕТААНАЛИЗ_СЕРИЙ_И_АРХИВ_ДАННЫХ/` - series meta-analysis, no-effect parameter map, and DOI/archive data preparation.
 
 Core rule: these files describe a research framework and do not state that antigravity is proven.
