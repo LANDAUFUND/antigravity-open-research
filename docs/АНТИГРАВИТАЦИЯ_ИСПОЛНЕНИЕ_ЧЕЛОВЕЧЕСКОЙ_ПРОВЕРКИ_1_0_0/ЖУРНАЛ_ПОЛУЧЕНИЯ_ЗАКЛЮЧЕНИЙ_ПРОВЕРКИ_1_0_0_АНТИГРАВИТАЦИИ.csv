@@ -6,4 +6,3 @@ CONCLUSION-PAT-001,ПАТЕНТНЫЙ_ПРОВЕРЯЮЩИЙ,Patent review concl
 CONCLUSION-SEC-001,ПРОВЕРЯЮЩИЙ_БЕЗОПАСНОСТИ,Security/privacy review conclusion,"ОДОБРЕНО; ОДОБРЕНО С ОГРАНИЧЕНИЯМИ; ТРЕБУЕТ ИСПРАВЛЕНИЙ; ОТКЛОНЕНО",НЕТ,ТРЕБУЕТ_ДАТЫ,ТРЕБУЕТ_РЕШЕНИЯ,ДА,ОЖИДАЕТСЯ
 CONCLUSION-ARC-001,АРХИВАРИУС,Archive readiness conclusion,"ОДОБРЕНО; ОДОБРЕНО С ОГРАНИЧЕНИЯМИ; ТРЕБУЕТ ИСПРАВЛЕНИЙ; ОТКЛОНЕНО",НЕТ,ТРЕБУЕТ_ДАТЫ,ТРЕБУЕТ_РЕШЕНИЯ,ДА,ОЖИДАЕТСЯ
 CONCLUSION-REL-001,RELEASE_MANAGER,Release decision summary,"GO; GO С ОГРАНИЧЕНИЯМИ; NO-GO; DEFER",НЕТ,ТРЕБУЕТ_ДАТЫ,NO-GO,ДА,NO-GO_ПО_УМОЛЧАНИЮ
-
