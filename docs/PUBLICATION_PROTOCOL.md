@@ -34,3 +34,7 @@ The `docs/АНТИГРАВИТАЦИЯ_RELEASE_CANDIDATE_1_0_0/` package is a te
 ## Release Review 1.0.0 Gate
 
 The `docs/АНТИГРАВИТАЦИЯ_REVIEW_RELEASE_1_0_0/` package records the review gates that must close before final release 1.0.0: scientific review, data review, license review, patent review, and security/privacy review. Until these gates are closed, the package remains a release candidate and no final `RELEASE_1_0_0` should be announced.
+
+## Operational Closure 1.0.0 Gate
+
+The `docs/АНТИГРАВИТАЦИЯ_ОПЕРАЦИОННОЕ_ЗАКРЫТИЕ_ПРОВЕРКИ_РЕЛИЗА_1_0_0/` package converts the review gate into an auditable decision workflow: assigned roles, evidence log, nonconformity/corrective-action log, reviewer conclusion template, and GO/NO-GO protocol. The default state remains `NO-GO` until the required roles are assigned, evidence is recorded, blocking nonconformities are closed, hashes are verified, and the final decision is documented.

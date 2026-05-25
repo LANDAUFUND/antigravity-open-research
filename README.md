@@ -65,6 +65,7 @@ Required:
 — `docs/АНТИГРАВИТАЦИЯ_ПРОВЕРКА_АРХИВНОГО_РЕЛИЗА/` — archive-release verification instruction, public aggregate JSON schema, release notes 1.0.0 draft, and Bitrix24/GitHub mapping table.
 — `docs/АНТИГРАВИТАЦИЯ_RELEASE_CANDIDATE_1_0_0/` — filled release-candidate manifest, strict verification report, review protocol, review checklist, and SHA-256 package sums.
 — `docs/АНТИГРАВИТАЦИЯ_REVIEW_RELEASE_1_0_0/` — scientific, data, license, patent, and security/privacy review gate for final release 1.0.0.
+— `docs/АНТИГРАВИТАЦИЯ_ОПЕРАЦИОННОЕ_ЗАКРЫТИЕ_ПРОВЕРКИ_РЕЛИЗА_1_0_0/` — operational closure package for review decisions, role assignments, evidence log, corrective actions, reviewer conclusion, and GO/NO-GO release protocol.
 — `datasets-public/templates/` — machine-readable CSV templates and data dictionary for measurement series.
 — `templates/АНТИГРАВИТАЦИЯ_ОТЧЁТЫ/` — public report template for an experimental series.
 — `templates/АНТИГРАВИТАЦИЯ_РЕЦЕНЗИИ/` — public peer review template for an antigravity experiment.
