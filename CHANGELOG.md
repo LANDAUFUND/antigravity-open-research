@@ -2,6 +2,7 @@
 
 ## 2026-05-25
 
+— Added review-gate package for release 1.0.0: scientific review, data review, license review, patent review, security/privacy review, summary protocol, decision registry, and SHA-256 sums.
 — Added release-candidate 1.0.0 package: filled manifest without temporary `ТРЕБУЕТ_*` manifest fields, strict verification report, release-candidate protocol, review checklist, and package SHA-256 sums.
 
 ## 2026-05-24
