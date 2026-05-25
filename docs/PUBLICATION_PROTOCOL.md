@@ -26,3 +26,7 @@ Important releases should be supported by:
 — a public GitHub issue or discussion;
 — citation metadata in `CITATION.cff`;
 — document-level license notice when the release is a standalone document.
+
+## Release Candidate 1.0.0 Gate
+
+The `docs/АНТИГРАВИТАЦИЯ_RELEASE_CANDIDATE_1_0_0/` package is a technical release-candidate gate. It does not state that antigravity is proven. A final `RELEASE_1_0_0` requires scientific, data, license, patent, and security/privacy review after the strict manifest check passes.

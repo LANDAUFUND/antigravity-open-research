@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-05-25
+
+— Added release-candidate 1.0.0 package: filled manifest without temporary `ТРЕБУЕТ_*` manifest fields, strict verification report, release-candidate protocol, review checklist, and package SHA-256 sums.
+
 ## 2026-05-24
 
 — Added the first public Russian-language Antigravity calculation framework package.

@@ -63,6 +63,7 @@ Required:
 — `methodologies/АНТИГРАВИТАЦИЯ_МЕТААНАЛИЗ_СЕРИЙ_И_АРХИВ_ДАННЫХ/` — series meta-analysis, no-effect parameter mapping, and DOI/archive preparation rules.
 — `docs/АНТИГРАВИТАЦИЯ_DOI_АРХИВНЫЙ_РЕЛИЗ/` — DOI-ready archive README, aggregated data dictionary, version/hash protocol, and DOI metadata template.
 — `docs/АНТИГРАВИТАЦИЯ_ПРОВЕРКА_АРХИВНОГО_РЕЛИЗА/` — archive-release verification instruction, public aggregate JSON schema, release notes 1.0.0 draft, and Bitrix24/GitHub mapping table.
+— `docs/АНТИГРАВИТАЦИЯ_RELEASE_CANDIDATE_1_0_0/` — filled release-candidate manifest, strict verification report, review protocol, review checklist, and SHA-256 package sums.
 — `datasets-public/templates/` — machine-readable CSV templates and data dictionary for measurement series.
 — `templates/АНТИГРАВИТАЦИЯ_ОТЧЁТЫ/` — public report template for an experimental series.
 — `templates/АНТИГРАВИТАЦИЯ_РЕЦЕНЗИИ/` — public peer review template for an antigravity experiment.
