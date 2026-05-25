@@ -1,0 +1,9 @@
+ID,РОЛЬ,ПАКЕТ,МАТЕРИАЛЫ,СПОСОБ_ПЕРЕДАЧИ,ДАТА_ПЕРЕДАЧИ,ПОЛУЧЕНИЕ_ПОДТВЕРЖДЕНО,СТАТУС
+HANDOFF-SCI-001,НАУЧНЫЙ_РЕЦЕНЗЕНТ,REVIEW_RELEASE_1_0_0,"Научная проверка; расчетный каркас; ограничения моделей; машинные доказательства","Bitrix24 / GitHub / внутренняя ссылка",ТРЕБУЕТ_ДАТЫ,НЕТ,ТРЕБУЕТ_ПЕРЕДАЧИ
+HANDOFF-DATA-001,ОТВЕТСТВЕННЫЙ_ЗА_ДАННЫЕ,RELEASE_CANDIDATE_1_0_0,"Манифест; strict-отчет; SHA-256; таблица соответствия Bitrix24/GitHub","Bitrix24 / GitHub / внутренняя ссылка",ТРЕБУЕТ_ДАТЫ,НЕТ,ТРЕБУЕТ_ПЕРЕДАЧИ
+HANDOFF-LIC-001,ЛИЦЕНЗИОННЫЙ_ПРОВЕРЯЮЩИЙ,REVIEW_RELEASE_1_0_0,"License review; LICENSE; LICENSE.md; PUBLICATION_PROTOCOL; attribution files","Bitrix24 / GitHub / внутренняя ссылка",ТРЕБУЕТ_ДАТЫ,НЕТ,ТРЕБУЕТ_ПЕРЕДАЧИ
+HANDOFF-PAT-001,ПАТЕНТНЫЙ_ПРОВЕРЯЮЩИЙ,ПАТЕНТНАЯ_КАРТА,"Патентная карта; объекты патентования; риски; open/private boundary","Bitrix24 / private repo / внутренняя ссылка",ТРЕБУЕТ_ДАТЫ,НЕТ,ТРЕБУЕТ_ПЕРЕДАЧИ
+HANDOFF-SEC-001,ПРОВЕРЯЮЩИЙ_БЕЗОПАСНОСТИ,МАШИННЫЕ_ДОКАЗАТЕЛЬСТВА_REVIEW_1_0_0,"Machine evidence; public/private boundary; secret-scan results; Bitrix24/GitHub map","Bitrix24 / GitHub / внутренняя ссылка",ТРЕБУЕТ_ДАТЫ,НЕТ,ТРЕБУЕТ_ПЕРЕДАЧИ
+HANDOFF-REL-001,RELEASE_MANAGER,ОПЕРАЦИОННОЕ_ЗАКРЫТИЕ_ПРОВЕРКИ_РЕЛИЗА_1_0_0,"Role matrix; evidence log; CAPA log; reviewer conclusion template; GO/NO-GO protocol","Bitrix24 / private repo / внутренняя ссылка",ТРЕБУЕТ_ДАТЫ,НЕТ,ТРЕБУЕТ_ПЕРЕДАЧИ
+HANDOFF-ARC-001,АРХИВАРИУС,DOI_АРХИВНЫЙ_РЕЛИЗ,"Archive README; DOI metadata; version/hash protocol; archive manifest","Bitrix24 / GitHub / внутренняя ссылка",ТРЕБУЕТ_ДАТЫ,НЕТ,ТРЕБУЕТ_ПЕРЕДАЧИ
+

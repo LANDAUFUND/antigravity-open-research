@@ -42,3 +42,7 @@ The `docs/АНТИГРАВИТАЦИЯ_ОПЕРАЦИОННОЕ_ЗАКРЫТИЕ
 ## Machine Evidence 1.0.0 Gate
 
 The `docs/АНТИГРАВИТАЦИЯ_МАШИННЫЕ_ДОКАЗАТЕЛЬСТВА_REVIEW_1_0_0/` package records machine-checkable evidence for review 1.0.0: local file hashes, Bitrix24 folder/file IDs, public/private GitHub snapshot commits, automated SHA-256 verification, review-role task handoff, and the boundary between machine checks and human review. This gate improves traceability only. It does not prove antigravity, does not close scientific/data/license/patent/security review, and does not authorize final `RELEASE_1_0_0`.
+
+## Human Review Execution 1.0.0 Gate
+
+The `docs/АНТИГРАВИТАЦИЯ_ИСПОЛНЕНИЕ_ЧЕЛОВЕЧЕСКОЙ_ПРОВЕРКИ_1_0_0/` package defines the execution layer for human review: role assignment registry, independence and conflict-of-interest declaration, reviewer material handoff, conclusion intake log, `NC-001..NC-006` closure matrix, and release board protocol. This gate does not assign real people automatically, does not replace signed conclusions, and preserves `NO-GO` by default until review roles, conclusions, nonconformities, and the release decision are closed.
