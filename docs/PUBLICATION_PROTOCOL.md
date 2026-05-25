@@ -38,3 +38,7 @@ The `docs/АНТИГРАВИТАЦИЯ_REVIEW_RELEASE_1_0_0/` package records th
 ## Operational Closure 1.0.0 Gate
 
 The `docs/АНТИГРАВИТАЦИЯ_ОПЕРАЦИОННОЕ_ЗАКРЫТИЕ_ПРОВЕРКИ_РЕЛИЗА_1_0_0/` package converts the review gate into an auditable decision workflow: assigned roles, evidence log, nonconformity/corrective-action log, reviewer conclusion template, and GO/NO-GO protocol. The default state remains `NO-GO` until the required roles are assigned, evidence is recorded, blocking nonconformities are closed, hashes are verified, and the final decision is documented.
+
+## Machine Evidence 1.0.0 Gate
+
+The `docs/АНТИГРАВИТАЦИЯ_МАШИННЫЕ_ДОКАЗАТЕЛЬСТВА_REVIEW_1_0_0/` package records machine-checkable evidence for review 1.0.0: local file hashes, Bitrix24 folder/file IDs, public/private GitHub snapshot commits, automated SHA-256 verification, review-role task handoff, and the boundary between machine checks and human review. This gate improves traceability only. It does not prove antigravity, does not close scientific/data/license/patent/security review, and does not authorize final `RELEASE_1_0_0`.

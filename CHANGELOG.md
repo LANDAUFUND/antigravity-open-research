@@ -2,6 +2,7 @@
 
 ## 2026-05-25
 
+— Added machine evidence package for review 1.0.0: local/Bitrix24/GitHub SHA-256 traceability, automated verification report, machine-review boundary note, reviewer task table, handoff protocol, and package SHA-256 sums.
 — Added operational closure package for release 1.0.0 review: role matrix, evidence log, nonconformity and corrective-action log, reviewer conclusion template, GO/NO-GO protocol, and SHA-256 sums.
 — Added review-gate package for release 1.0.0: scientific review, data review, license review, patent review, security/privacy review, summary protocol, decision registry, and SHA-256 sums.
 — Added release-candidate 1.0.0 package: filled manifest without temporary `ТРЕБУЕТ_*` manifest fields, strict verification report, release-candidate protocol, review checklist, and package SHA-256 sums.
