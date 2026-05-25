@@ -2,6 +2,7 @@
 
 ## 2026-05-25
 
+— Added reviewer and grant outreach package for release 1.0.0: reviewer selection criteria, scientific reviewer invitation, data/license/patent/security/grant reviewer invitation, candidate outreach registry, NDA/public-private boundary rules, review budget/grant plan, safe outreach protocol, and package SHA-256 sums.
 — Added human review execution package for release 1.0.0: role assignment registry, independence/conflict-of-interest declaration, reviewer material handoff, conclusion intake log, NC-001..NC-006 closure matrix, release board protocol, and package SHA-256 sums.
 — Added review role assignment and NC closure package for release 1.0.0: assignment protocol, role registry, NC-001..NC-006 closure plan, NC closure table, reviewer task packet, interim NO-GO/HOLD protocol, and package SHA-256 sums.
 — Added machine evidence package for review 1.0.0: local/Bitrix24/GitHub SHA-256 traceability, automated verification report, machine-review boundary note, reviewer task table, handoff protocol, and package SHA-256 sums.

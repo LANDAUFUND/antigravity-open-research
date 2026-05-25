@@ -1,0 +1,13 @@
+BUDGET_LINE,ROLE_OR_ACTIVITY,PURPOSE,UNIT,LOW_ESTIMATE_USD,HIGH_ESTIMATE_USD,FUNDING_SOURCE,GRANT_CATEGORY,STATUS,NOTES
+BR-001,SCIENTIFIC_REVIEWER,independent_scientific_review,review,500,3000,project_or_grant,peer_review_and_validation,ESTIMATE_ONLY,actual rate requires agreement
+BR-002,DATA_REVIEWER,data_manifest_sha_csv_units_review,review,300,2000,project_or_grant,data_management_and_reproducibility,ESTIMATE_ONLY,include reproducibility checks
+BR-003,LICENSE_REVIEWER,cc_by_attribution_code_noncode_boundary,review,300,1500,project_or_grant,publication_compliance,ESTIMATE_ONLY,legal review may require separate counsel
+BR-004,PATENT_REVIEWER,patent_first_redaction_prior_art_screen,review,750,5000,project_or_grant,ip_and_translation_to_protection,ESTIMATE_ONLY,not a substitute for full patent filing
+BR-005,SECURITY_PRIVACY_REVIEWER,secrets_personal_data_boundary_check,review,500,3000,project_or_grant,research_security_and_privacy,ESTIMATE_ONLY,scope depends on access level
+BR-006,GRANT_REVIEWER,grant_readiness_budget_deliverables_review,review,300,2000,project_or_grant,grant_development,ESTIMATE_ONLY,no success fee without legal check
+BR-007,RELEASE_MANAGER,coordination_minutes_decision_registry,package,500,2500,project_or_grant,program_management,ESTIMATE_ONLY,does not decide GO without reviewers
+BR-008,DOI_ARCHIVE_PREPARATION,archive_metadata_checks_deposition,package,200,1500,project_or_grant,open_science_outputs,ESTIMATE_ONLY,platform fees may vary
+BR-009,INDEPENDENT_REPLICATION_MICROGRANT,small_external_replication_attempt,award,1000,10000,grant,replication_and_negative_results,PLANNED,requires protocol and safety review
+BR-010,EQUIPMENT_CALIBRATION_SUPPORT,calibration_or_measurement_audit,service,500,5000,grant,metrology_and_lab_quality,PLANNED,do not buy equipment before protocol freeze
+BR-011,OPEN_DATA_PUBLICATION,public_aggregate_dataset_and_documentation,package,300,3000,grant,open_data_and_reproducibility,PLANNED,raw/private data excluded by default
+BR-012,CONTINGENCY,unexpected_review_or_redaction_work,percent,10,20,project_or_grant,risk_reserve,ESTIMATE_ONLY,percentage of direct review budget
