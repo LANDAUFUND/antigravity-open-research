@@ -12,6 +12,10 @@ Only approved public materials should be committed here.
 
 Drafts, raw laboratory notes, sensitive data, private coordination, credentials, and unapproved hypotheses belong in the private laboratory repository, not here.
 
+## Development Protocol
+
+The cross-system development protocol for the Antigravity direction is maintained in the Landau Fund root repository. The public-research application note is recorded in [docs/DIRECTION_DEVELOPMENT_PROTOCOL.md](docs/DIRECTION_DEVELOPMENT_PROTOCOL.md).
+
 ## License
 
 Public non-code materials in this repository are released under:

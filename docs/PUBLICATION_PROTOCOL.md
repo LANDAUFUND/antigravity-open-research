@@ -2,6 +2,8 @@
 
 This public repository receives only approved materials.
 
+The broader direction development protocol is recorded in `docs/DIRECTION_DEVELOPMENT_PROTOCOL.md` and in the Landau Fund root repository.
+
 ## Before Publication
 
 Check:

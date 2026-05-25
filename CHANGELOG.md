@@ -2,6 +2,7 @@
 
 ## 2026-05-25
 
+— Added the public-research application note for the Antigravity direction development protocol, linking this repository to the root GitHub, website/domain, Bitrix24, review-gate, and communication protocol.
 — Added outreach execution and reviewer access log package for release 1.0.0: first-contact send registry, candidate response log, NDA/COI/access checklist, grant opportunity registry, private-material access protocol, refusal/silence handling protocol, and package SHA-256 sums.
 — Added reviewer and grant outreach package for release 1.0.0: reviewer selection criteria, scientific reviewer invitation, data/license/patent/security/grant reviewer invitation, candidate outreach registry, NDA/public-private boundary rules, review budget/grant plan, safe outreach protocol, and package SHA-256 sums.
 — Added human review execution package for release 1.0.0: role assignment registry, independence/conflict-of-interest declaration, reviewer material handoff, conclusion intake log, NC-001..NC-006 closure matrix, release board protocol, and package SHA-256 sums.
