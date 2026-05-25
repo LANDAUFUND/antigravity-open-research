@@ -2,6 +2,7 @@
 
 ## 2026-05-25
 
+— Added review role assignment and NC closure package for release 1.0.0: assignment protocol, role registry, NC-001..NC-006 closure plan, NC closure table, reviewer task packet, interim NO-GO/HOLD protocol, and package SHA-256 sums.
 — Added machine evidence package for review 1.0.0: local/Bitrix24/GitHub SHA-256 traceability, automated verification report, machine-review boundary note, reviewer task table, handoff protocol, and package SHA-256 sums.
 — Added operational closure package for release 1.0.0 review: role matrix, evidence log, nonconformity and corrective-action log, reviewer conclusion template, GO/NO-GO protocol, and SHA-256 sums.
 — Added review-gate package for release 1.0.0: scientific review, data review, license review, patent review, security/privacy review, summary protocol, decision registry, and SHA-256 sums.
