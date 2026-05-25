@@ -46,3 +46,7 @@ The `docs/АНТИГРАВИТАЦИЯ_МАШИННЫЕ_ДОКАЗАТЕЛЬСТ
 ## Human Review Execution 1.0.0 Gate
 
 The `docs/АНТИГРАВИТАЦИЯ_ИСПОЛНЕНИЕ_ЧЕЛОВЕЧЕСКОЙ_ПРОВЕРКИ_1_0_0/` package defines the execution layer for human review: role assignment registry, independence and conflict-of-interest declaration, reviewer material handoff, conclusion intake log, `NC-001..NC-006` closure matrix, and release board protocol. This gate does not assign real people automatically, does not replace signed conclusions, and preserves `NO-GO` by default until review roles, conclusions, nonconformities, and the release decision are closed.
+
+## Outreach Execution And Reviewer Access 1.0.0 Gate
+
+The `docs/АНТИГРАВИТАЦИЯ_ЖУРНАЛ_ИСПОЛНЕНИЯ_OUTREACH_И_ДОПУСКА_РЕЦЕНЗЕНТОВ_1_0_0/` package records the auditable execution layer for reviewer and grant outreach: first-contact tracking, candidate response handling, NDA/COI checks, access-control status, grant opportunity tracking, private-material access protocol, and refusal/silence handling. It does not send messages, does not confirm reviewer participation, does not grant private access, and preserves `NO-GO` by default until real signed conclusions and nonconformity closure exist.

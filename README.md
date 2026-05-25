@@ -68,6 +68,7 @@ Required:
 — `docs/АНТИГРАВИТАЦИЯ_ОПЕРАЦИОННОЕ_ЗАКРЫТИЕ_ПРОВЕРКИ_РЕЛИЗА_1_0_0/` — operational closure package for review decisions, role assignments, evidence log, corrective actions, reviewer conclusion, and GO/NO-GO release protocol.
 — `docs/АНТИГРАВИТАЦИЯ_МАШИННЫЕ_ДОКАЗАТЕЛЬСТВА_REVIEW_1_0_0/` — machine evidence package linking local files, Bitrix24 file IDs, public/private GitHub snapshots, SHA-256 verification, and review-role handoff tasks.
 — `docs/АНТИГРАВИТАЦИЯ_ИСПОЛНЕНИЕ_ЧЕЛОВЕЧЕСКОЙ_ПРОВЕРКИ_1_0_0/` — human review execution package for role assignment, independence/conflict-of-interest checks, material handoff, conclusion intake, NC closure, and release board protocol.
+— `docs/АНТИГРАВИТАЦИЯ_ЖУРНАЛ_ИСПОЛНЕНИЯ_OUTREACH_И_ДОПУСКА_РЕЦЕНЗЕНТОВ_1_0_0/` — outreach execution and reviewer access log package for first-contact tracking, candidate responses, NDA/COI checks, access control, grant opportunities, refusal handling, and default NO-GO status.
 — `datasets-public/templates/` — machine-readable CSV templates and data dictionary for measurement series.
 — `templates/АНТИГРАВИТАЦИЯ_ОТЧЁТЫ/` — public report template for an experimental series.
 — `templates/АНТИГРАВИТАЦИЯ_РЕЦЕНЗИИ/` — public peer review template for an antigravity experiment.
